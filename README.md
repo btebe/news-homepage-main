@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [src](https://your-solution-url.com)
+- Solution URL: [src](https://github.com/btebe/news-homepage-main)
 - Live Site URL: [news-homepage](https://btebe.github.io/news-homepage-main/)
 
 ## My process
